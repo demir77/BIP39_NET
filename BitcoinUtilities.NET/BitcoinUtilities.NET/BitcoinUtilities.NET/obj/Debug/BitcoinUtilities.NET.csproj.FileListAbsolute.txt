@@ -1,0 +1,8 @@
+C:\Users\mehme\Source\Repos\BitcoinUtilities.NET\BitcoinUtilities.NET\BitcoinUtilities.NET\bin\Debug\BitcoinUtilities.dll
+C:\Users\mehme\Source\Repos\BitcoinUtilities.NET\BitcoinUtilities.NET\BitcoinUtilities.NET\bin\Debug\BitcoinUtilities.pdb
+C:\Users\mehme\Source\Repos\BitcoinUtilities.NET\BitcoinUtilities.NET\BitcoinUtilities.NET\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\mehme\Source\Repos\BitcoinUtilities.NET\BitcoinUtilities.NET\BitcoinUtilities.NET\obj\Debug\BitcoinUtilities.NET.csproj.AssemblyReference.cache
+C:\Users\mehme\Source\Repos\BitcoinUtilities.NET\BitcoinUtilities.NET\BitcoinUtilities.NET\obj\Debug\BitcoinUtilities.NET.csproj.CoreCompileInputs.cache
+C:\Users\mehme\Source\Repos\BitcoinUtilities.NET\BitcoinUtilities.NET\BitcoinUtilities.NET\obj\Debug\BitcoinUtilities.NET.csproj.CopyComplete
+C:\Users\mehme\Source\Repos\BitcoinUtilities.NET\BitcoinUtilities.NET\BitcoinUtilities.NET\obj\Debug\BitcoinUtilities.dll
+C:\Users\mehme\Source\Repos\BitcoinUtilities.NET\BitcoinUtilities.NET\BitcoinUtilities.NET\obj\Debug\BitcoinUtilities.pdb
